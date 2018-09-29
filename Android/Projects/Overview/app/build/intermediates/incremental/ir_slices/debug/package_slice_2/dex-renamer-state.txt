@@ -1,0 +1,4 @@
+#Tue Jun 19 23:55:29 CEST 2018
+base.0=D\:\\Programming\\Git\\Java\\Android\\Projects\\Overview\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+path.0=classes.dex
+renamed.0=classes.dex

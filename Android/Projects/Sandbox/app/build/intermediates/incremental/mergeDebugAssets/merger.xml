@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\assets"/><source path="E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\debug\assets"/></dataSet></merger>

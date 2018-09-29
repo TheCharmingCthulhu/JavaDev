@@ -1,0 +1,106 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml:1:1-20:12
+INJECTED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml:1:1-20:12
+INJECTED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml:1:1-20:12
+INJECTED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml:1:1-20:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\TheDa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\5f875545a81cb2535c57423b2f25c423\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\TheDa\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\10a55821b8ddaf713d688106a2c5de96\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\TheDa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b0979f25f8c54e7cc5f1e163e2b20ab8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\TheDa\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\c6e9aea9be3234da040217c10c9cdcff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\TheDa\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\2f8b38332f2f63d10ae679e19153ed9b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\TheDa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\bab88552ea36b112ab6bb053672583d5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\TheDa\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\72c3f41068e341ff8019cd6a977c4f32\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\TheDa\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\0ee56bc71fde4f7828efcf682c95bbfa\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\TheDa\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\504f4ad7fff628f410f8913adbb96a50\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\TheDa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2d5ab5df6407625a6044eac35cad4dbd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\TheDa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\152be033b36cb6ac957f274983783f3c\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml:1:1-20:12
+INJECTED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml:1:1-20:12
+INJECTED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml:1:1-20:12
+	package
+		ADDED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml:2:5-40
+		INJECTED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml
+		ADDED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml:1:1-20:12
+		INJECTED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml
+		ADDED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml:1:1-20:12
+		INJECTED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml:4:5-19:19
+	android:supportsRtl
+		ADDED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml:7:9-41
+	android:roundIcon
+		ADDED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml:8:9-54
+	android:icon
+		ADDED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.sandbox.theda.sandbox.ActivityMain
+ADDED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml:11:9-18:20
+	android:name
+		ADDED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml:11:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.HOME+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml:12:13-17:29
+action#android.intent.action.MAIN
+ADDED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml:13:17-68
+	android:name
+		ADDED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml:14:17-76
+	android:name
+		ADDED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml:14:27-74
+category#android.intent.category.HOME
+ADDED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml:15:17-72
+	android:name
+		ADDED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml:15:27-70
+category#android.intent.category.DEFAULT
+ADDED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml:16:17-75
+	android:name
+		ADDED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml:16:27-73
+uses-sdk
+INJECTED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml
+INJECTED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\TheDa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\5f875545a81cb2535c57423b2f25c423\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\TheDa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\5f875545a81cb2535c57423b2f25c423\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\TheDa\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\10a55821b8ddaf713d688106a2c5de96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\TheDa\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\10a55821b8ddaf713d688106a2c5de96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\TheDa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b0979f25f8c54e7cc5f1e163e2b20ab8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\TheDa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b0979f25f8c54e7cc5f1e163e2b20ab8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\TheDa\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\c6e9aea9be3234da040217c10c9cdcff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\TheDa\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\c6e9aea9be3234da040217c10c9cdcff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\TheDa\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\2f8b38332f2f63d10ae679e19153ed9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\TheDa\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\2f8b38332f2f63d10ae679e19153ed9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\TheDa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\bab88552ea36b112ab6bb053672583d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\TheDa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\bab88552ea36b112ab6bb053672583d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\TheDa\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\72c3f41068e341ff8019cd6a977c4f32\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\TheDa\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\72c3f41068e341ff8019cd6a977c4f32\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\TheDa\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\0ee56bc71fde4f7828efcf682c95bbfa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\TheDa\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\0ee56bc71fde4f7828efcf682c95bbfa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\TheDa\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\504f4ad7fff628f410f8913adbb96a50\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\TheDa\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\504f4ad7fff628f410f8913adbb96a50\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\TheDa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2d5ab5df6407625a6044eac35cad4dbd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\TheDa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2d5ab5df6407625a6044eac35cad4dbd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\TheDa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\152be033b36cb6ac957f274983783f3c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\TheDa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\152be033b36cb6ac957f274983783f3c\AndroidManifest.xml:20:5-44
+INJECTED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml
+INJECTED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml
+		ADDED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml
+		ADDED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Applications\GitHub\Repositories\JavaDev\Android\Sandbox\app\src\main\AndroidManifest.xml
